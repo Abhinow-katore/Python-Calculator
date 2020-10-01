@@ -60,3 +60,8 @@ while True:
      result2=  (num2**1/2) 
      print(result1)
      print(result2 )
+     
+   elif user_input=='percentage':
+     num1 =float(input(""))
+     result1 = (num1/100) 
+     print(result1)
