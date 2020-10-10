@@ -8,20 +8,14 @@ print(
 ╚═══╩╝╚╩═╩══╩══╩═╩╝╚╩═╩══╩╝
 ''') 
 
-print("Your_Calculation")
-print("for_addition : type 'add'")
-print("for_multiplication : 'multiply'")
-print("for_division : 'divide'")
-print("for_subtration :subtract")
-print("for_square_root: root")
-print("for_cancle_processing :'clear'")
+print("For addition : type 'add'")
+print("Multiplication: 'multiply'")
+print("Division: 'divide'")
+print("Subtraction: 'subtract'")
+print("Square root: 'root'")
 
 while True:
    user_input = input("Enter command: ")
-   
-   if user_input == "clear":
-     break 
-    
    elif user_input == 'add':
     num1 = float(input("Enter number a: "))
     num2 = float(input("Enter number b: "))
