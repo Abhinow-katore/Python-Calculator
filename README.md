@@ -5,12 +5,10 @@
 ║╚═╝║╔╗║╚╣╚═╣╚╝║╚╣╔╗║╚╣╚╝║║
 ╚═══╩╝╚╩═╩══╩══╩═╩╝╚╩═╩══╩╝
 
-
-     Your_Calculation"   
-     for_addition : type `add`   
-     for_multiplication : `multiply`  
-     for_division : `divide`   
-     for_subtration : `subtract`  
-     for_square_root: `root`  
-     for_cancle_processing :`clear`
-     for_percentage : `percentage`
+For addition: type `add`   
+For multiplication: `multiply`  
+For division : `divide`   
+For subtraction : `subtract`  
+For square root: `root`  
+For cancelling processiong :`clear`
+For percentage : `percentage`
